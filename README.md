@@ -66,9 +66,9 @@
 
 ## 📬 Connect with Me
 
-[![https://www.linkedin.com/in/sreemoyee-dutta-bb76bb262/](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sreemoyee](https://www.linkedin.com/in/sreemoyee-dutta-bb76bb262/))
+[![linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreemoyee-dutta-bb76bb262/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechExplorer03)
-[![sreemoyee2003@gmail.com](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreemoyee2003@gmail.com)
+[![email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreemoyee2003@gmail.com)
 
 ---
 
