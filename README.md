@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Tech Explorer | Cybersecurity Enthusiast | AI & Space Science Geek 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Front-End+Developer;AI+and+Machine+Learning+Explorer;Cybersecurity+Certified;Open-Source+Contributor;Lunar+PSR+Image+Enhancement+Researcher;Lifelong+Tech+Learner!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Front-End+Developer;AI+and+Machine+Learning+Explorer;Cybersecurity+Enthusiast;Open-Source+Contributor;Lunar+PSR+Image+Enhancement+Researcher;Lifelong+Tech+Learner!">
 </p>
 
 ---
